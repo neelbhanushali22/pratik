@@ -1,3 +1,8 @@
 #include<stdio.h>
 #include<conio.h>
-printf
+void main()
+{
+  clrscr();
+printf("welcome to github");
+  getch();
+}
